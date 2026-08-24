@@ -1,0 +1,2 @@
+export const site={name:'Zrio Labs',tagline:'Build • Innovate • Elevate',email:'zriolabs@gmail.com',phone:'',location:'Colombo, Western Province, Sri Lanka',linkedin:'https://www.linkedin.com/company/zriolabs/',facebook:'https://www.facebook.com/share/19aVL5Ash6/?mibextid=wwXIfr',url:'https://YOUR-DOMAIN.com'};
+export const nav=[['Home','/'],['About','/about'],['Services','/services'],['Our Work','/work'],['Contact','/contact']] as const;
